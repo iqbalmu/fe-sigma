@@ -1,7 +1,7 @@
 <template>
-  <div class="col-md-4 offset-md-4">
+  <!-- <div class="col-md-4 offset-md-4"> -->
     <router-view></router-view> 
-  </div>  
+  <!-- </div>   -->
 </template>
 
 <script>
