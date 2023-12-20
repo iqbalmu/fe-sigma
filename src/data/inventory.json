@@ -1,0 +1,34 @@
+{
+    "status": 200,
+    "message": "get inventories success",
+    "data" : [
+        {
+            "id" : 1,
+            "name": "name 1",
+            "address": "address 1",
+            "description": "description 1",
+            "category": "category 1",
+            "images": "./src/assets/unp-logo.png",
+            "status": true
+        },
+        {
+            "id" : 2,
+            "name": "name 2",
+           
+            "description": "description 2",
+            "category": "category 2",
+            "images": "./src/assets/unp-logo.png",
+            "status": false
+        },
+
+        {
+            "id" : 3,
+            "name": "name 3",
+           
+            "description": "description 2",
+            "category": "category 2",
+            "images": "./src/assets/unp-logo.png",
+            "status": true
+        }
+    ]
+}
